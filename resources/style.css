@@ -1,0 +1,36 @@
+body {
+background-color: black;
+text-align: center;
+}
+h1 {
+font-family: Verdana;
+font-weight: normal;
+font-size: 50px;
+color: white;
+text-position: centered;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+p {
+  font-family: Verdana;
+    font-size: 21px;
+    color: Gray;
+}
+.copyright {
+    text-align: right;
+}
+a {
+    text-decoration: underline;
+}
